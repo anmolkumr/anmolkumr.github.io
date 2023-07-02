@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21d552cc.css",
+    "main.js": "/static/js/main.dd20bf9a.js",
+    "static/media/Me.png": "/static/media/Me.0a02a13015fd9f2ace51.png",
+    "static/media/Blith.png": "/static/media/Blith.fa3ebb059fe348ad5cbe.png",
+    "static/media/codeitor.png": "/static/media/codeitor.def6e60709b76b4340c4.png",
+    "static/media/Election.png": "/static/media/Election.b3a319501a86fb5998fe.png",
+    "static/media/TerraSafe.png": "/static/media/TerraSafe.a3824762e4a475da66c5.png",
+    "static/media/Educational.png": "/static/media/Educational.bab2cd166e5700b94bbb.png",
+    "static/media/medical.png": "/static/media/medical.fce0b997aaed5b96f1d7.png",
+    "index.html": "/index.html",
+    "main.21d552cc.css.map": "/static/css/main.21d552cc.css.map",
+    "main.dd20bf9a.js.map": "/static/js/main.dd20bf9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21d552cc.css",
+    "static/js/main.dd20bf9a.js"
+  ]
+}
